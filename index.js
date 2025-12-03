@@ -27,4 +27,4 @@ if (xp < 1000) {
 }
 
 // 3. Saída
-console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivel}`);
+console.log(`O nivel do heroi ${nomeHeroi} é ${nivel}`);
